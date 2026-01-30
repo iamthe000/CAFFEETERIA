@@ -3,7 +3,6 @@
 **CAFFEE_Editorの軽量版です**
 <a href="https://github.com/iamthe000/CAFFEE_Editor">CAFFEE_Editor</a>
 
-[![Go Version](https://img.shields.io/github/go-mod/go-version/username/repo)](https://golang.org/)
 [![License](https://img.shields.io/badge/license-GNU-blue.svg)](LICENSE)
 
 **CAFFEETERIA** is a ultra-lightweight, TUI-based text editor written in Go. Designed for developers who need a simple, fast, and no-frills editing environment within their terminal.
