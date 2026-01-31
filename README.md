@@ -26,7 +26,7 @@
 Clone the repository and build the executable:
 
 ```bash
-git clone https://github.com/yourusername/caffeeteria.git
+git clone https://github.com/iamthe000/caffeeteria.git
 cd caffeeteria
 go build -o caffeeteria main.go
 ```
